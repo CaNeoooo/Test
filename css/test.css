@@ -1,0 +1,19 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+h1{
+	font-size: 30px;
+	color: teal;
+}
+h2{
+	font-size: 25px;
+	font: fantasy;
+	color: red;
+}
+.big{
+	font-size: 50px;
+}
+
+h1 span{
+	color: blueviolet;
+}
